@@ -33,21 +33,6 @@ div.warning-title span:nth-child(1) {
     font-weight: 700;
 }
 
-.warning-banner p {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-.warning-banner a {
-    text-decoration: none;
-    text-align: center;
-    color: #ffffff;
-    background-color: #190482;
-    padding: 0.5rem;
-    border-radius: 0.5rem;
-    width: 14rem;
-}
-
 .wrapper {
     height: fit-content;
     font-family: Arial, Helvetica, sans-serif;
